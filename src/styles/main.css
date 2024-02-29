@@ -1,9 +1,5 @@
-@import url(./reset.css);
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
 body {
     cursor: url("../assets/cursor/yugicursor.png"), default;
-    font-family: "Press Start 2P", system-ui;
 }
 
 button, a, img:hover, button:hover, a:hover {
